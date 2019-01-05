@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3824b7ad-7734-418a-9e6b-21b2d17dea50" name="Default Changelist" comment="" />
+    <list default="true" id="3824b7ad-7734-418a-9e6b-21b2d17dea50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +46,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -53,10 +58,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="448" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="856" />
     <option name="height" value="824" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -173,18 +180,17 @@
       <option name="presentableId" value="Default" />
       <updated>1546707472267</updated>
       <workItem from="1546707474390" duration="8194000" />
-      <workItem from="1546715957079" duration="8000" />
+      <workItem from="1546715957079" duration="707000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8202000" />
+    <option name="totallyTimeSpent" value="8901000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="824" extended-state="0" />
-    <editor active="true" />
+    <frame x="448" y="23" width="856" height="824" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16452074" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16339067" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -198,7 +204,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50079364" side_tool="true" weight="0.32650274" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49920633" weight="0.32650274" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49920633" visible="true" weight="0.32650274" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49920633" weight="0.329235" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
